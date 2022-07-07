@@ -17,11 +17,11 @@ Software; Python 3.7.6, Anaconda - Jupyter Notebook
   - Math and reading scores by grade by:
 
   - Scores by school spending by:
-
+    - This parameter was not affected
   - Scores by school size by:
-
+    - This parameter was not affected
   - Scores by school type by:
-
+    - This parameter was not affected
 ## Summary 
 1- 
 2- 
