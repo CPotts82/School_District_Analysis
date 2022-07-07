@@ -1,10 +1,10 @@
 # School_District_Analysis
 ## Project Overview
-
+The focus of this analysis was to examine the standardized reading and math scores among high school students from 15 different schools in the same district.  The objective was to analyze trends in student performance to see how this relates to budget allowance per student. This analysis will be used by the school board and administration to make future budgeting decisions.  After the initial analysis was completed, an inconsistency pertaining to the math and reading scores for Thomas High School's ninth grade class caused those scores to be completely removed from the analysis.  The school district analysis was rerun without the scores for math and reading for Thomas High School's ninth grade class.  The results of the second analysis will be discussed in this report along with comparisons from the initial report.
 
 ## Resources
 Data Source: schools_complete.csv and students_complete.csv
-Software; Python 3.7.6, Anaconda - Jupyter Notebook
+Software: Python 3.7.6, Anaconda - Jupyter Notebook
 
 ## Results
 - The District Summary was affected in the following ways:
