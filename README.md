@@ -11,10 +11,9 @@ Software: Python 3.7.6, Anaconda - Jupyter Notebook
 - The District Summary was affected in the following ways:
   - The number of students taken into account in the second analysis fell from 39,170 to 38,709 students.  There were 461 ninth grade students at Thomas High School and those students have been removed from the total student count.  This will affect some of the calculations.
   - The Average Math Score is now 78.9 having dropped .1 points from the initial analysis.  
-  - *The Percentage of Students passing Math also dropped, it is now a 74.8% having previously been 75.0%.
-  - *The Percent of Students Passing Reading dropped .1 points, it is now 85.7%.
-  - *The Overall Passing Percentage also dropped .3 points.  It was at a 65.2% and is now a 64.9%.
-  - * The scores marked by the asterisk do not show a decrease in the dataframe because the percentages are formatted to round to a whole number. The differences are noted before the formatting is put into effect. 
+  - The Percentage of Students passing Math also dropped .2 points, it is now a 74.8%.
+  - The Percent of Students Passing Reading dropped .1 points, it is now 85.7%.
+  - The Overall Passing Percentage also dropped .3 points.  It was at a 65.2% and is now a 64.9%.
 
 ### School Summary
 - The School Summary was affected in the following ways:
