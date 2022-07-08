@@ -1,9 +1,9 @@
 # School_District_Analysis
 ## Project Overview
-The focus of this analysis was to examine the standardized reading and math scores among high school students from 15 different schools in the same district.  The objective was to analyze trends in student performance to see how this relates to budget allowance per student. This analysis will be used by the school board and administration to make future budgeting decisions.  After the initial analysis was completed, an inconsistency pertaining to the math and reading scores for Thomas High School's ninth grade class caused those scores to be completely removed from the dataset.  The school district analysis was rerun without the scores for Thomas High School's ninth grade class.  The results of the second analysis will be discussed in this report along with comparisons from the initial report.
+The focus of this analysis was to examine the standardized reading and math scores among high school students from 15 different schools in the same district.  The objective was to analyze trends in student performance to see how this relates to budget allowance per student. This analysis will be used by the school board and administration to make future budgeting decisions.  After the initial analysis was completed, an inconsistency pertaining to the math and reading scores for Thomas High School's ninth grade class caused those scores to be completely removed from the dataset.  The school district analysis was re-run without the scores for Thomas High School's ninth grade class.  The results of the second analysis will be discussed in this report along with comparisons from the initial report.
 
 ## Resources
-Data Source: schools_complete.csv and students_complete.csv
+Data Source: schools_complete.csv and students_complete.csv.  
 Software: Python 3.7.6, Anaconda - Jupyter Notebook
 
 ## Results
@@ -16,8 +16,12 @@ Software: Python 3.7.6, Anaconda - Jupyter Notebook
   - The Overall Passing Percentage also dropped .3 points.  It was at a 65.2% and is now a 64.9%.
 
 ### School Summary
-- The School Summary was affected in the following ways:
-
+- The School Summary (for Thomas High School) was affected in the following ways:
+  - The Average Math Score for the school (minus the 9th grade) dropped from 83.42 to 83.35.
+  - The Average Reading Score for the school (minus 9th grade) actually increased from 83.85 to 83.90.
+  - Percent Passing Math decreased from 93.27% to 93.19%.
+  - Percent Passing Reading decreased from 97.31% to 97.02%.
+  - The Overall Passing Percent decreased from an initial 90.95% to 90.63%.
 - By replacing the 9th grade scores for reading and math at Thomas High School with NaN, it affected performance relative to other schools by:
 
 - Replacing the 9th grade math/reading scores at Thomas High School affected:
