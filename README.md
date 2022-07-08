@@ -25,9 +25,8 @@ Software: Python 3.7.6, Anaconda - Jupyter Notebook
   - Percent Passing Math decreased from 93.27% to 93.19%.
   - Percent Passing Reading decreased from 97.31% to 97.02%.
   - The Overall Passing Percent decreased from an initial 90.95% to 90.63%.
-
 - By replacing the 9th grade scores for reading and math at Thomas High School with NaN, it affected performance relative to other schools by:
-  - 
+  - It did not have an impact on how Thomas High School performed compared to other schools.  Thomas High School still ranked second in Overall Passing Percentage compared to the other schools.  Thomas High School ranked #2 in the top schools for student performance in the standardized testing for math and reading scores. 
 
 ### Scores by Spending, Size and Type:
   - Scores by school spending by:
