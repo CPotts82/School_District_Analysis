@@ -27,17 +27,14 @@ Software: Python 3.7.6, Anaconda - Jupyter Notebook
   - The Overall Passing Percent decreased from an initial 90.95% to 90.63%.
 - By replacing the 9th grade scores for reading and math at Thomas High School with NaN, it affected performance relative to other schools by:
   - It did not have an impact on how Thomas High School performed compared to other schools.  Thomas High School still ranked second in Overall Passing Percentage compared to the other schools.  Thomas High School ranked #2 in the top schools for student overall performance in the standardized testing for math and reading scores. 
-
 ### Scores by Spending, Size and Type:
   - Scores by school spending were affected by:
     - The new analysis did not effect the results of the initial analysis for spending per student.  The analysis showed that the schools with a budget of less than $586 per student had the highest performance in all categories.
   - Scores by school size were affected by:
     - The new analysis did not show a change in school performance based on school size. The initial analysis showed that the smaller and medium size school populations performed better in all categories compared to the large population schools.
   - Scores by school type were afffected by:
-    - The new analysis did not change the output from this analysis.  The initial analysis showed that the Charter schools performed better than the district schools in all categories. The performance of students at Charter schools was much better in the percent passing math category and the overall passing percentage. 
+    - The new analysis did not change the output from this analysis.  The initial analysis showed that the Charter schools performed better than the district schools in all categories. The performance of students at Charter schools was much higher in the percent passing math category and the overall passing percentage. 
 
 ## Summary 
-1- 
-2- 
-3- 
-4- 
+The main ways that the school district analysis was impacted by the change in Thomas High School ninth grade scores for reading and math being changed to NaN; was in the district summary as well as by affecting Thomas High School's scores directly.  It only makes sense that some calculations were impacted because the overall total student count for all 15 schools decreased by 461.  The District Summary was most effected because this change in total student count affected all three percentage calculations.  The % passing math decreased by .2 points, the percent passing reading decreased by .1 points and the overall percent passing decreased .3 points. 
+For Thomas High School the decrease in their student count directly affected the percentage calculations.  The percent passing math and reading both dropped as well as the overall passing percent.  Surprisingly the average reading score increased by .05%.  The second analysis without the ninth grade scores from Thomas High did affect some areas but really did not affect too many aspects of this analysis because 461 students is really not much compared to over 38,000 students in total. 
