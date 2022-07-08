@@ -17,9 +17,7 @@ Software: Python 3.7.6, Anaconda - Jupyter Notebook
 
 ### School Summary
 - The School Summary was affected in the following ways:
-
-- By replacing the 9th grade scores for reading and math at Thomas High School with NaN, it affected performance relative to other schools by:
-
+  - The only aspect of the school summary that was affected was Thomas High School's scores. The other school's averages for math and reading as well as passing percentages for math, reading and overall all remained the same.  If there was any change in the calculations due to the change in total student count is was so minimal that it was not seen in the formatted data. 
 #### Thomas High School 
 - Replacing the 9th grade math/reading scores at Thomas High School affected:
   - The Average Math Score for the school (minus the 9th grade) dropped from 83.42 to 83.35.
@@ -27,6 +25,9 @@ Software: Python 3.7.6, Anaconda - Jupyter Notebook
   - Percent Passing Math decreased from 93.27% to 93.19%.
   - Percent Passing Reading decreased from 97.31% to 97.02%.
   - The Overall Passing Percent decreased from an initial 90.95% to 90.63%.
+
+- By replacing the 9th grade scores for reading and math at Thomas High School with NaN, it affected performance relative to other schools by:
+  - 
 
 ### Scores by Spending, Size and Type:
   - Scores by school spending by:
