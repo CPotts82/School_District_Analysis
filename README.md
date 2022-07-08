@@ -17,7 +17,7 @@ Software: Python 3.7.6, Anaconda - Jupyter Notebook
 
 ### School Summary
 - The School Summary was affected in the following ways:
-  - The only aspect of the school summary that was affected was Thomas High School's scores. The other school's averages for math and reading as well as passing percentages for math, reading and overall all remained the same.  If there was any change in the calculations due to the change in total student count, it was so minimal that it was not seen in the formatted data. 
+  - The only aspect of the school summary that was affected was Thomas High School's scores. The other school's averages for math and reading as well as passing percentages for math, reading and overall passing remained the same.  If there was any change in the calculations due to the change in total student count, it was so minimal that it was not seen in the formatted data. 
 #### Thomas High School 
 - Replacing the 9th grade math/reading scores at Thomas High School affected:
   - The Average Math Score for the school (minus the 9th grade) dropped from 83.42 to 83.35.
@@ -30,11 +30,11 @@ Software: Python 3.7.6, Anaconda - Jupyter Notebook
 
 ### Scores by Spending, Size and Type:
   - Scores by school spending were affected by:
-    - This parameter was not affected
+    - The new analysis did not effect the results of the initial analysis for spending per student.  The analysis showed that the schools with a budget of less than $586 per student had the highest performance in all categories.
   - Scores by school size were affected by:
-    - This parameter was not affected
+    - The new analysis did not show a change in school performance based on school size. The initial analysis showed that the smaller and medium size school populations performed better in all categories compared to the large population schools.
   - Scores by school type were afffected by:
-    - This parameter was not affected
+    - The new analysis did not change the output from this analysis.  The initial analysis showed that the Charter schools performed better than the district schools in all categories. The performance of students at Charter schools was much better in the percent passing math category and the overall passing percentage. 
 
 ## Summary 
 1- 
