@@ -17,7 +17,7 @@ Software: Python 3.7.6, Anaconda - Jupyter Notebook
 
 ### School Summary
 - The School Summary was affected in the following ways:
-  - The only aspect of the school summary that was affected was Thomas High School's scores. The other school's averages for math and reading as well as passing percentages for math, reading and overall all remained the same.  If there was any change in the calculations due to the change in total student count is was so minimal that it was not seen in the formatted data. 
+  - The only aspect of the school summary that was affected was Thomas High School's scores. The other school's averages for math and reading as well as passing percentages for math, reading and overall all remained the same.  If there was any change in the calculations due to the change in total student count, it was so minimal that it was not seen in the formatted data. 
 #### Thomas High School 
 - Replacing the 9th grade math/reading scores at Thomas High School affected:
   - The Average Math Score for the school (minus the 9th grade) dropped from 83.42 to 83.35.
@@ -26,18 +26,18 @@ Software: Python 3.7.6, Anaconda - Jupyter Notebook
   - Percent Passing Reading decreased from 97.31% to 97.02%.
   - The Overall Passing Percent decreased from an initial 90.95% to 90.63%.
 - By replacing the 9th grade scores for reading and math at Thomas High School with NaN, it affected performance relative to other schools by:
-  - It did not have an impact on how Thomas High School performed compared to other schools.  Thomas High School still ranked second in Overall Passing Percentage compared to the other schools.  Thomas High School ranked #2 in the top schools for student performance in the standardized testing for math and reading scores. 
+  - It did not have an impact on how Thomas High School performed compared to other schools.  Thomas High School still ranked second in Overall Passing Percentage compared to the other schools.  Thomas High School ranked #2 in the top schools for student overall performance in the standardized testing for math and reading scores. 
 
 ### Scores by Spending, Size and Type:
-  - Scores by school spending by:
+  - Scores by school spending were affected by:
     - This parameter was not affected
-  - Scores by school size by:
+  - Scores by school size were affected by:
     - This parameter was not affected
-  - Scores by school type by:
+  - Scores by school type were afffected by:
     - This parameter was not affected
 
 ## Summary 
-1- q
+1- 
 2- 
 3- 
 4- 
